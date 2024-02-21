@@ -1,0 +1,162 @@
+.home {
+  padding: 10px;
+  margin: 4rem 6rem;
+  background-image: url('https://www.3dpower.in/images/apartment-rendering/full/3d%20apartment%20design.jpg');
+  background-size: cover;
+  opacity:0.8;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  
+}
+
+.button {
+  background-color: brown;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-class {
+  background-color: blueviolet;
+  color: #fff; 
+  padding: 10px 20px;
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+
+}
+.navbar{
+    padding:10px;
+    background-color:rgb(39, 179, 210);
+    border:none;
+}
+.image{
+  height:200px;
+  width:200px;
+}
+.center-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ height:100vh;
+}
+
+/*.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  
+   
+}
+.title h3{
+  background-color: rgb(235, 229, 229);
+  text-align:center;
+  justify-content:center;
+  width: fit-content;
+  font-weight: bold;
+  
+  color:rgb(16, 18, 18);
+}
+.title1 h3{
+  background-color: rgb(235, 229, 229);
+  text-align:center;
+  justify-content:center;
+  width: fit-content;
+  font-weight: bold;
+  position: relative;
+  top:-330px;
+  right:-360px;
+  color:rgb(16, 18, 18);
+}
+/* BasicExample.css (create a separate CSS file, e.g., BasicExample.css) */
+
+
+
+
+/*.first-des {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4.5rem;
+}
+.first-des-reverse {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4.5rem;
+}
+.first-des-reverse-2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4.5rem;
+}
+.des-text {
+  width: 45%;
+  text-align: start;
+  font-size: 1.1rem;
+  padding-bottom: 1 rem;
+}
+.des-text h2 {
+  padding-bottom: 1rem;
+}
+.image {
+  position: relative;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  z-index: -99;
+}
+.image img {
+  width: 49%;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: -1px 1px 62px -18px rgba(57, 152, 216, 0.19);
+}
+.image img:nth-child(2) {
+  position: absolute;
+  top: -10%;
+  right: 0;
+}
+@media screen and (max-width: 850px) {
+  .destination {
+    margin: 4rem 2 rem;
+  }
+  .first-des {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+  }
+  .first-des-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+  }
+  .first-des-reverse-2 {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+  }
+  .des-text {
+    width: 100%;
+  }
+  .image {
+    width: 100%;
+    margin: 1.8rem 0;
+  }
+  .image img {
+    height: 250px;
+  }
+}*/

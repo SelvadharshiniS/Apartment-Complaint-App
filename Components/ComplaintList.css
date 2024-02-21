@@ -1,0 +1,17 @@
+/* ComplaintsList.css */
+.photos img{
+  padding:10px 15px;
+  height:400px;
+  
+}
+ .photos {
+  padding:10px 25px ;
+ }
+.photos h2{
+  padding:10px 15px;
+  background-color: rgb(53, 119, 185);
+}
+.photos button{
+  margin-top: 10rem;
+  margin-left:10rem;
+}
